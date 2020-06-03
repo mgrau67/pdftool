@@ -1,0 +1,8 @@
+C:\Users\Administrador\source\repos\pdftool\pdftool\bin\Release\pdftool.exe.config
+C:\Users\Administrador\source\repos\pdftool\pdftool\bin\Release\pdftool.exe
+C:\Users\Administrador\source\repos\pdftool\pdftool\bin\Release\pdftool.pdb
+C:\Users\Administrador\source\repos\pdftool\pdftool\bin\Release\PdfSharp.dll
+C:\Users\Administrador\source\repos\pdftool\pdftool\obj\Release\pdftool.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\pdftool\pdftool\obj\Release\pdftool.csproj.CopyComplete
+C:\Users\Administrador\source\repos\pdftool\pdftool\obj\Release\pdftool.exe
+C:\Users\Administrador\source\repos\pdftool\pdftool\obj\Release\pdftool.pdb
