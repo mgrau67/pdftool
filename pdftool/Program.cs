@@ -60,7 +60,7 @@ namespace pdftool
                 for (int i = 0; i < afiles.Length; i++)
                 {
                     var ipdf = PdfReader.Open(afiles[i], PdfDocumentOpenMode.Import);
-                    for (int j = 0; j < ipdf.Pages.Count; ++ j)
+                    for (int j = 0; j < ipdf.Pages.Count; ++j)
                         opdf.AddPage(ipdf.Pages[j]);
                 }
                 opdf.Save(ofile);
