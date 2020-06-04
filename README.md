@@ -2,4 +2,4 @@
 Use PdfSharp library
 
 Examples:
-extract <file-in> <file-out> <from-page> <to-page>
+extract file-in file-out from-page to-page
