@@ -15,18 +15,25 @@ namespace pdftool
                 return;
             }
 
-            string opt = args[0];
-            switch (opt)
+            try
             {
-                case "extract":
-                    Extract(args);
-                    break;
-                case "join":
-                    Join(args);
-                    break;
-                default:
-                    Usage();
-                    break;
+                string opt = args[0];
+                switch (opt)
+                {
+                    case "extract":
+                        Extract(args);
+                        break;
+                    case "join":
+                        Join(args);
+                        break;
+                    default:
+                        Usage();
+                        break;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
             }
         }
 
